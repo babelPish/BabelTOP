@@ -6,6 +6,7 @@
 
 * BERT를 체험해보자.
 * 발표자 : 이동현
+* 발표자료 : [슬라이드](/handson/bert/BERT-Overview.pdf)
 * 실습 코드 & Colab
    * [notebook](/handson/bert)
    * [실습 Colab](https://colab.research.google.com/github/babelPish/BabelTOP/blob/master/handson/bert/pytorchic_bert_usage.ipynb) <- 이 링크를 누르세요!!
